@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+  <img src="static/img/2.jpg" alt="" width="20%" height="20%">
+  <div id='title' align="Center" style="font-size:350%; margin-top:-160px">credit card fraud detection</div>
+  <script src="https://d3js.org/d3.v3.min.js" language="JavaScript"></script>
+  <script src="static/js/liquidFillGauge.js" language="JavaScript"></script>
+  <style>
+    .liquidFillGaugeText {
+      font-family: Helvetica;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+  <div class="col-sm-12">
+    <div class="col-sm-3" align="center">
+      <h1>Fraud</h1>
+      <svg id="fillgauge1" width="65%" height="200" onclick="gauge1.update(NewValue());"></svg>
+      <h1>Normal</h1>
+      <svg id="fillgauge2" width="65%" height="200" onclick="gauge2.update(NewValue());"></svg>
+
+
+      <div class="col-sm-9 bg">
+
+
+      </div>
+
+    </div>
+
+    <script language="JavaScript">
+      var config1 = liquidFillGaugeDefaultSettings();
+      config1.circleColor = "#FF7777";
+      config1.textColor = "#FF4444";
+      config1.waveTextColor = "#FFAAAA";
+      config1.waveColor = "#FFDDDD";
+      config1.circleThickness = 0.1;
+      config1.textVertPosition = 0.5;
+      config1.waveAnimateTime = 1000;
+      var gauge1 = loadLiquidFillGauge("fillgauge1", {{fraud}}, config1);
+      var gauge2 = loadLiquidFillGauge("fillgauge2", {{normal}}, );
+      var config2 = liquidFillGaugeDefaultSettings();
+      config2.circleColor = "#D4AB6A";
+      config2.textColor = "#553300";
+      config2.waveTextColor = "#805615";
+      config2.waveColor = "#AA7D39";
+      config2.circleThickness = 0.1;
+      config2.circleFillGap = 0.2;
+      config2.textVertPosition = 0.8;
+      config2.waveAnimateTime = 2000;
+      config2.waveHeight = 0.3;
+      config2.waveCount = 1;
+      function NewValue() {
+        if (Math.random() > .5) {
+          return Math.round(Math.random() * 100);
+        } else {
+          return (Math.random() * 100).toFixed(1);
+        }
+      }
+    </script>
+</body>
+
+</html>
