@@ -11,7 +11,6 @@ I used [Yahoo! finance data downloader](https://github.com/ranaroussi/yfinance) 
 !pip install yfinance
 import yfinance as yf
 MARUTI = yf.download('MARUTI.NS',period='5y', progress=False)
-MARUTI
 ```
 
 
