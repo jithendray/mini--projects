@@ -48,8 +48,6 @@ However - It is up to the trader to choose the number of days to which the two m
 - [yfinance](https://github.com/ranaroussi/yfinance) 
 - [backtesting.py](https://kernc.github.io/backtesting.py/)
 
-
 ---
-
 
 **Note: This is purely for learning purposes. I am not responsible for any profit/loss you make using this. You should consult your financial advisor before any trading decision! (lol!)**
