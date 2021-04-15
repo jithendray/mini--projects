@@ -8,7 +8,7 @@ This helps to understand what are the common things between the songs that reach
 For this, I found a [dataset](https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year) on Kaggle.
 
 
-Listed all cool insights - [here](https://github.com/jithendrabsy/DS-ML-Projects/blob/main/datascience-meets-music/analyzing-top-spotify-songs_from-2010-19/insights.md)
+Listed all cool insights - [here](https://github.com/jithendrabsy/Side-Projects/blob/main/mini-projects/when-music-meets-datascience/analyzing-top-spotify-songs_from-2010-19/insights.md)
 
 ### Some insights
 
