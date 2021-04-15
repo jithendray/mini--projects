@@ -10,6 +10,10 @@ I forecasted the amount of pollution in air based on  the historical pollution d
 
 ![](img/data.png)
 
+### Notebooks
+- [Statistical Univariate models](https://nbviewer.jupyter.org/github/jithendrabsy/Side-Projects/blob/main/mini-projects/forecasting-air-pollution/models/UnivariateModels.ipynb)
+- [Multivariate ML models](https://nbviewer.jupyter.org/github/jithendrabsy/Side-Projects/blob/main/mini-projects/forecasting-air-pollution/models/ML_Models.ipynb)
+
 ### Data Analysis
 
 Analysing time series data before any modeling is very important. This gives an idea of trend and seasonality present in the dataset if any.
