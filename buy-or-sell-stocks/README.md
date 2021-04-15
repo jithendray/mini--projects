@@ -14,4 +14,41 @@ It uses two moving averages, a short period and long period one. When the short 
 
 ### Strategy 1 - DMAC 30/100
 
-![](img/trend30100.png)
+window1 = 30 days
+window2 = 100 days
+
+![](img/sig30100.png)
+
+
+- When backtested this strategy over past 5 years of MARUTI stock - this returns a 78% of your investment in 5 years.
+
+
+### Strategy 2 - DMAC 13/48
+
+window1 = 13 days
+window2 = 48 days
+
+![](img/sig1348.png)
+
+
+- When backtested this strategy over past 5 years of MARUTI stock - this returns a 113% of your investment in 5 years.
+
+![](img/bokeh1348.png)
+
+
+A return of 113% in 5 years is very good, which is obtained by using Dual Moving Average Crossing strategy with short and long windows 13 and 48 respectively. 30/100 window selection strategy is also not so ad because 78% return in 5 years is not bad and even this is more trustworthy than the 13/48 strategy.
+
+I used random window lengths. I used 13 and 48 because - "A study discovered that trading the crossovers of the 13-day and 48.5-day averages produced the largest returns". [1]
+
+However - It is up to the trader to choose the number of days to which the two moving averages are set. This should be done after testing and evaluating the system thoroughly in the recommended way, using the trader’s method.
+
+### Libraries Used - 
+- Numpy
+- Pandas
+- Matplotlib
+- Bokeh
+- [yfinance](https://github.com/ranaroussi/yfinance) 
+- [backtesting.py](https://kernc.github.io/backtesting.py/)
+
+
+**Note: I am not responsible for any profit/loss you make using this. Do not deploy this strategy without knowing what you are doing, I did this purely for learning purposes, and you should consult your financial advisor before any trading decision! (lol!)**
