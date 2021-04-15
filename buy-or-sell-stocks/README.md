@@ -49,4 +49,7 @@ However - It is up to the trader to choose the number of days to which the two m
 - [backtesting.py](https://kernc.github.io/backtesting.py/)
 
 
-**Note: I am not responsible for any profit/loss you make using this. Do not deploy this strategy without knowing what you are doing, I did this purely for learning purposes, and you should consult your financial advisor before any trading decision! (lol!)**
+---
+
+
+**Note: This is purely for learning purposes. I am not responsible for any profit/loss you make using this. You should consult your financial advisor before any trading decision! (lol!)**
