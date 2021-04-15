@@ -1,7 +1,18 @@
 # Buy or Sell Stocks?
 ##### using Dual Moving Average Crossover Strategy
 
-Predicted when to buy or sell stocks using simple dual moving average crossover strategy. And then backtested it over 5 years of MARUTI stock.
+Predicted when to buy or sell stocks using simple dual moving average crossover strategy. And then backtested it over 5 years of stock.
+
+
+### Downloading data
+I used [Yahoo! finance data downloader](https://github.com/ranaroussi/yfinance) to download the stocks of Maruti Suzuki (MARUTI.NS). It is very easy to download the stock data using `yfinance` package as it doesn't require any API tokens to download the data.
+
+```python
+!pip install yfinance
+import yfinance as yf
+MARUTI = yf.download('MARUTI.NS',period='5y', progress=False)
+MARUTI
+```
 
 
 ### What is Dual Moving Average Crossover strategy?
