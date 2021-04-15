@@ -9,8 +9,6 @@ It uses two moving averages, a short period and long period one. When the short 
 - if short MA crosses the long MA in an upward direction - BUY signal
 - if short MA crosses the long MA in a downward direction - SELL signal
 
-![DMAC](img/dmac.png)
-
 
 ### Strategy 1 - DMAC 30/100
 
