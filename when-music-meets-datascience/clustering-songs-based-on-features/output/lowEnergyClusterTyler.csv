@@ -1,0 +1,36 @@
+name,id,album,artist,energy,danceability,loudness,instrumentalness,popularity,labels
+Yonkers,4repMe7ou7bz7L33HQfuV0,Goblin,"Tyler, the creator",0.759,0.7120000000000001,-5.397,0.0808,14,1
+Radicals,5VX4NUwY6Y2Tb282s5okwj,Goblin,"Tyler, the creator",0.68,0.562,-8.015,0.0955,9,1
+She,1bO2vxNEE0CTehNo4LoNIa,Goblin,"Tyler, the creator",0.621,0.35,-6.495,3.4399999999999996e-05,19,1
+Analog,2sfFLzeZj86kKaQngyyYd5,Goblin,"Tyler, the creator",0.6990000000000001,0.364,-9.472999999999999,0.00093,7,1
+Golden,3JozIUgw0YB37FfOa6jNBA,Goblin,"Tyler, the creator",0.76,0.46,-6.734,0.00114,5,1
+Cowboy,2hjjUjikOa29kImnI5kQPw,Wolf,"Tyler, the creator",0.66,0.499,-8.514,0.0,51,1
+Awkward,6c7l5gpEyCNGr86jsWneGy,Wolf,"Tyler, the creator",0.7759999999999999,0.48,-8.666,0.0265,55,1
+Answer,6rqj2zeKhLy3exkuFi6mSz,Wolf,"Tyler, the creator",0.838,0.368,-6.465,5.74e-06,62,1
+Slater (feat. Frank Ocean),5wTpnBRTx1HSGQVDZQ2VSh,Wolf,"Tyler, the creator",0.623,0.583,-6.876,4.74e-05,52,1
+48,2wK7y55bzry7tUDmDqYaz7,Wolf,"Tyler, the creator",0.887,0.5579999999999999,-8.083,0.0,55,1
+IFHY (feat. Pharrell),0NjW4SKY3gbfl2orl1p8hr,Wolf,"Tyler, the creator",0.716,0.36,-6.181,0.0,67,1
+Pigs,5L4n81Ecf8UE837uJkuoJJ,Wolf,"Tyler, the creator",0.737,0.441,-6.98,0.00101,49,1
+Rusty (feat. Domo Genesis & Earl Sweatshirt),4oQkcfukOHfKsmeoeXQLWC,Wolf,"Tyler, the creator",0.677,0.495,-5.646,0.000265,53,1
+Tamale,60b6B2ULC85t4Y5IjZvP7A,Wolf,"Tyler, the creator",0.93,0.742,-7.207000000000001,0.00025,60,1
+Lone,6oVFpdtDzSgRLv8rUgFVUW,Wolf,"Tyler, the creator",0.7609999999999999,0.313,-8.509,0.0,49,1
+DEATHCAMP (feat. Cole Alexander),1dXYBALYTj3AMxa8hgiQhA,Cherry Bomb,"Tyler, the creator",0.746,0.581,-5.495,0.000276,55,1
+BUFFALO (feat. Shane Powers),1qkPQxOTLFmx3bwUOV8Kzw,Cherry Bomb,"Tyler, the creator",0.8240000000000001,0.34600000000000003,-5.053999999999999,0.000266,48,1
+PILOT (feat. Sydney Bennett),332Yig3HD2IdDigzlf5Ndl,Cherry Bomb,"Tyler, the creator",0.8690000000000001,0.596,-2.3890000000000002,0.0493,47,1
+RUN (feat. Chaz Bundick & ScHoolboy Q),586xfl7VsCFPD9z5iJoKEp,Cherry Bomb,"Tyler, the creator",0.909,0.41100000000000003,-5.234,0.0,43,1
+CHERRY BOMB,1sJZgGyZJookIoyLi9jDOV,Cherry Bomb,"Tyler, the creator",0.8170000000000001,0.594,-3.389,0.8,48,1
+"BLOW MY LOAD (feat. Wanya Morris, Dâm-Funk, Austin Feinstein & Sydney Bennett)",5DXJ7agkkKytxX8Z2x1fY3,Cherry Bomb,"Tyler, the creator",0.701,0.397,-7.327999999999999,0.000207,49,1
+"2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)",6Xw3iWrQKgArwlRhVuU9CK,Cherry Bomb,"Tyler, the creator",0.693,0.35200000000000004,-7.412000000000001,6.21e-05,58,1
+THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (REMIX) (feat. ScHoolboy Q),629TRAVD61y1ZVNl9EOfEE,Cherry Bomb,"Tyler, the creator",0.8420000000000001,0.63,-5.636,0.0,49,1
+"FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)",46CA1H0T1r7u5lDUtVveAh,Cherry Bomb,"Tyler, the creator",0.705,0.23199999999999998,-6.928,6.6e-05,65,1
+SMUCKERS (feat. Lil Wayne & Kanye West),078C2jXg7XsMgW78Gfx1JA,Cherry Bomb,"Tyler, the creator",0.8490000000000001,0.42700000000000005,-2.945,0.00373,62,1
+"OKAGA, CA (feat. Alice Smith, Leon Ware & Clem Creevy)",2CnrJj6Jz4vSe5E1hsWtpg,Cherry Bomb,"Tyler, the creator",0.64,0.45799999999999996,-4.515,0.0288,51,1
+Foreword (feat. Rex Orange County),33i3xxHB4YSYGYbtJrwwO8,Flower Boy,"Tyler, the creator",0.6709999999999999,0.7340000000000001,-7.107,0.00317,62,1
+I Ain't Got Time!,430qNtapCS3Ue1yoSql1oV,Flower Boy,"Tyler, the creator",0.725,0.5489999999999999,-7.239,3.52e-05,60,1
+911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),4bEcoz1OcfMgUbp2ft8ieQ,Flower Boy,"Tyler, the creator",0.61,0.48,-7.042000000000001,0.0,70,1
+November,4XDpeWqPADoWRKcUY3dC84,Flower Boy,"Tyler, the creator",0.759,0.547,-7.039,2.15e-05,61,1
+"Enjoy Right Now, Today",3R1Vu4Ws7UitwDxDHTol0P,Flower Boy,"Tyler, the creator",0.675,0.7290000000000001,-6.007999999999999,0.847,55,1
+IGOR'S THEME,51RN0kzWd7xeR4th5HsEtW,IGOR,"Tyler, the creator",0.672,0.467,-7.371,0.243,64,1
+NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,IGOR,"Tyler, the creator",0.73,0.621,-5.414,0.000131,67,1
+A BOY IS A GUN*,1nXZnTALNXiPlvXotqHm66,IGOR,"Tyler, the creator",0.6890000000000001,0.41700000000000004,-8.302,0.0,67,1
+WHAT'S GOOD,6bOkaEXc5CopinGazSLokx,IGOR,"Tyler, the creator",0.909,0.45799999999999996,-6.553,4.26e-06,62,1

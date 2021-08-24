@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+keras
+tensorflow
+opencv-python
+requests
+scikit-learn
+scipy
+argparse
+imutils
